@@ -1,0 +1,30 @@
+_repo: Stolen-Treasure_10394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: With the buccaneers.--Tom Chist and the treasure-box.--The ghost of Captain
+  Brand.--The devil at New Hope.
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Buccaneers -- Fiction'
+- GITenberg
+tableOfContents: With the buccaneers -- Tom Chist and the treasure-box -- The ghost
+  of Captain Brand -- A true history of the devil at New Hope.
+title: Stolen Treasure
+url: http://www.gutenberg.org/ebooks/10394
