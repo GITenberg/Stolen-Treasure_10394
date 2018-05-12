@@ -1,5 +1,8 @@
 _repo: Stolen-Treasure_10394
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pyle, Howard
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
 description: With the buccaneers.--Tom Chist and the treasure-box.--The ghost of Captain
   Brand.--The devil at New Hope.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10394#Stolen-Treasure
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
